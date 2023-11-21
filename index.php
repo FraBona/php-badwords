@@ -8,6 +8,10 @@
 <body>
    <form action="badwords.php" method="POST">
     <input type="text" name="badword">
+    <textarea id="w3review" name="text" rows="4" cols="50">
+      
+    </textarea>
+
     <input type="submit" placeholder="invia">
    </form>
 </body>
